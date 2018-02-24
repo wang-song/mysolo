@@ -1,0 +1,8 @@
+.idea/
+.DS_Store
+/target
+
+src/main/webapp/skins/*
+!src/main/webapp/skins/mobile
+!src/main/webapp/skins/yilia
+
